@@ -1,7 +1,7 @@
 max-cube-protocol
 =================
 
-A attempt to write down the protocol of the eQ3 / ELV MAX! Heating system
+An attempt to write down the protocol of the eQ3 / ELV MAX! Heating system
 
 This protocol is implemented in various opensource projects.
 
@@ -28,6 +28,7 @@ This protocol is implemented in various opensource projects.
 	* [maxcul binding](https://github.com/openhab/openhab/tree/master/bundles/binding/org.openhab.binding.maxcul)
 * [pymax](https://github.com/ercpe/pymax) (Python)
 * [thermeq3](https://github.com/autopower/thermeq3) (Arduino Yún)
+* [maxcube-java](https://github.com/spinscale/maxcube-java/) (Java)
 
 General description on how to connect to the cube can be found in [protocol](protocol.md)
 
